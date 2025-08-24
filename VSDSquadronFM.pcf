@@ -1,0 +1,5 @@
+set_io  led_red	39 //for red led RGB_DRIVER
+set_io  led_blue 40 //for blue led RGB_DRIVER
+set_io  led_green 41 //for green led RGB_DRIVER
+set_io  hw_clk 20 // for internal clock 
+set_io  testwire 17 // output signal to led RGB_DRIVER
